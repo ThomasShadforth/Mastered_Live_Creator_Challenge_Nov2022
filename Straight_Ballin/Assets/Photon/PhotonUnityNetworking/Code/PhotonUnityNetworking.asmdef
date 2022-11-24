@@ -1,10 +1,17 @@
 {
     "name": "PhotonUnityNetworking",
+    "rootNamespace": "",
     "references": [
-        "PhotonRealtime"
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

@@ -13,7 +13,13 @@ public class DelayLobbyController : MonoBehaviourPunCallbacks
     public override void OnConnectedToMaster()
     {
         PhotonNetwork.AutomaticallySyncScene = true;
+        SetButtonsDefault();
+    }
+
+    public void SetButtonsDefault()
+    {
         _startButton.SetActive(true);
+        _cancelButton.SetActive(false);
     }
 
     public void DelayStart()

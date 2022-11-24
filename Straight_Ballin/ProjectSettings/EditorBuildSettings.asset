@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Photon/PhotonUnityNetworking/Code/Project/Scenes/PhotonLobbyMenu.unity
-    guid: eb27fb5031745144ab13d53d1218d7f2
+    path: Assets/Photon/PhotonUnityNetworking/Code/Project/Scenes/MainMenu.unity
+    guid: 977e8431c7c128242a2d0b002fb81784
   - enabled: 1
     path: Assets/Photon/PhotonUnityNetworking/Code/Project/Scenes/Straight_Ballin_Main.unity
     guid: 74adafe19a0a13843a3e1c3a31235267
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Code/Project/Scenes/Straight_Ballin_Waiting_Room.unity
+    guid: d21e61f80de29464e9d33347be4f1a6c
   m_configObjects: {}
