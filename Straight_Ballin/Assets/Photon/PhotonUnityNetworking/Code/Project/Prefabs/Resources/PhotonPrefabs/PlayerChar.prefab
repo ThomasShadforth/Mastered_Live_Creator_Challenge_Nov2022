@@ -404,6 +404,7 @@ MonoBehaviour:
   material: {fileID: 0}
   moveSpeed: 3
   rotateSpeed: 200
+  throwSpeed: 14
   ballCheckLayer:
     serializedVersion: 2
     m_Bits: 64

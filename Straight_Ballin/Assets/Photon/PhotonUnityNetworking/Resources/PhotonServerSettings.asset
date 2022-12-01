@@ -48,6 +48,10 @@ MonoBehaviour:
   - RPC_SetBallParent
   - RPC_GoalScored
   - RPC_SetIndex
+  - RPC_CheckForBall
+  - RPC_ThrowBall
+  - RPC_ChangeScore
+  - RPC_SetColour
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 1
